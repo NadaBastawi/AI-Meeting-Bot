@@ -1,4 +1,4 @@
-# MeetMate
+# AI Meeting Bot
 
 ## Inspiration
 
